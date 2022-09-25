@@ -3,8 +3,6 @@
 ___
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2500&center=true&vCenter=true&width=500&lines=I'm+an+IT+student+from+Tyumen%2C+Russia)](https://git.io/typing-svg)
 
-![i](Hi2.png)
-
 ## About me 
 ___
 
