@@ -3,7 +3,6 @@
 ___
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2500&center=true&vCenter=true&width=500&lines=I'm+an+IT+student+from+Tyumen%2C+Russia)](https://git.io/typing-svg)
 
-<iframe frameborder="0" style="border:none;width:100%;height:180px;" width="100%" height="180" src="https://music.yandex.ru/iframe/#track/49124891/6721189">Слушайте <a href='https://music.yandex.ru/album/6721189/track/49124891'>Безумцы землю ногами крутят</a> — <a href='https://music.yandex.ru/artist/4927449'>Truckdrivers</a> на Яндекс Музыке</iframe>
 
 
 ## About me 
