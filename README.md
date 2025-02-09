@@ -1,4 +1,4 @@
-<h1 align="center"> Hi eweryone, I'm John </h1>
+<h1 align="center"> Hi all, I'm John </h1>
 
 ___
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2500&center=true&vCenter=true&width=500&lines=I'm+an+IT+student+from+Tyumen%2C+Russia)](https://git.io/typing-svg)
