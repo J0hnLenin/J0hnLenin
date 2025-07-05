@@ -8,8 +8,6 @@ ___
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=J0hnLenin&theme=tokyonight_duo)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=J0hnLenin&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
-
 ![](https://komarev.com/ghpvc/?username=J0hnLenin)
 
 ## Сontacts
