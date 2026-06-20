@@ -2,6 +2,13 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2500&center=true&vCenter=true&width=500&lines=I'm+an+IT+student+from+Tyumen%2C+Russia)](https://git.io/typing-svg)
 
+## Обо мне
+
+**Backend-разработчик**  
+Специализируюсь на **Go** и **Python**, строю высоконагруженные микросервисы, работаю с распределёнными системами.
+
+Увлекаюсь спортивным программированием и игрой го.
+
 ---
 
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
@@ -16,24 +23,17 @@
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![](https://komarev.com/ghpvc/?username=J0hnLenin)
 
-## Обо мне
-
-**Backend-разработчик**  
-Специализируюсь на **Go** и **Python**, строю высоконагруженные микросервисы, работаю с распределёнными системами.
-
-Увлекаюсь спортивным программированием и игрой го.
-
-## Stats
+---
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=J0hnLenin&theme=tokyonight_duo)](https://git.io/streak-stats)
 
 [![My Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=J0hnLenin\&layout=donut\&theme=dark\&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
 
-## Сontacts
+## Контакты
 
 [![i](./docs/vk4.png)](https://vk.com/j0hn_lenin) [![i](./docs/tg2.png)](https://t.me/J0hn_Lenin) <a href="mailto:ziziz123ziziz@gmail.com"><img src="./docs/ml.png"></a>
 
-## 📌 Проекты
+## Проекты
 
 ### [WalletService](https://github.com/J0hnLenin/WalletService)
 Микросервис для управления балансами кошельков с шардированием.  
