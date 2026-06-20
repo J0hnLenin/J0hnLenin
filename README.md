@@ -9,6 +9,12 @@
 
 Увлекаюсь спортивным программированием и игрой го.
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/J0hnLenin/J0hnLenin/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/J0hnLenin/J0hnLenin/output/github-snake.svg" />
+  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/J0hnLenin/J0hnLenin/output/github-snake.svg" />
+</picture>
+
 ---
 
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
