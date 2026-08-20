@@ -1,6 +1,6 @@
 <h1 align="center"> Hi all, I'm John </h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2500&center=true&vCenter=true&width=500&lines=I'm+an+IT+student+from+Tyumen%2C+Russia)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2500&center=true&vCenter=true&width=500&lines=I'm+an+IT+student)](https://git.io/typing-svg)
 
 ## Обо мне
 
